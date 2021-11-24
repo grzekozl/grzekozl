@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently working on improviing my RC CAR project. New electronic circuits as well as improvements to both server and client applications. I'm also thinking of making an automated little greenhouse in aquarium - watering, air conditioning, fertilizer, day/night cycle using LEDs will be automated.
+I'm learning Java for over 5 years, mostly from trying out ideas that come to my head. I'm trying out NodeJS (mostly express framework) for server side application. 
 
 <!--
 **grzekozl/grzekozl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
